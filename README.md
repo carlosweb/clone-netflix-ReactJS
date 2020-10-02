@@ -4,6 +4,9 @@
 ## O Desafio
 Criar um clone do NETFLIX com REACTJS usando a [API do The Movie DB](https://www.themoviedb.org/documentation/api)
 
+### Deploy do projeto
+[Acesse o site](https://netflixclonereactjs.netlify.app/)
+
 ![Screenshot](https://github.com/carlosweb/clone-netflix-ReactJS/blob/master/public/images/img-net.jpg?raw=true)
 
 ## Especificações
